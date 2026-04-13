@@ -115,7 +115,7 @@ JWT_SECRET=your_secret_key
 
 👨‍💻 Author
 
-Developed by Vyshitha
+Developed by JHANSI
 
 ---
 
